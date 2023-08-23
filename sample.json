@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "bild", "name": "Bild" },
+      "author": "BILD",
+      "title": "Unvergessliche Tennis-Show: Nach Final-Drama: Djokovic zerreißt sein Shirt | Sport",
+      "description": "Gegen Alcaraz: Tennis-Fans müssen dieses Djokovic-Finale gesehen haben!",
+      "url": "https://www.bild.de/video/clip/sport-videos/unvergessliche-tennis-show-nach-final-drama-djokovic-zerreisst-sein-shirt-85117094.bild.html",
+      "urlToImage": "https://images.bild.de/64e306ed8506727d1da4850a/62def4857738b74bf196fe771faaaf5d-landscape,b296fb81?w=1280",
+      "publishedAt": "2023-08-21T06:50:12Z",
+      "content": "Mehr zum Video anzeigen\r\nGegen Alcaraz: Tennis-Fans müssen dieses Djokovic-Finale gesehen haben!\r\nQuelle: ATP / AP 21.08.2023 - 08:50 Uhr"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "‘This is nuts’: Tennis rocked by star’s tears",
+      "description": "This one was special.",
+      "url": "https://www.news.com.au/sport/tennis/this-is-nuts-tennis-rocked-by-alcarazs-tears-after-epic-djokovic-thriller/news-story/f83295c7d213e2b3feacae532fde1a6c",
+      "urlToImage": "https://content.api.news/v3/images/bin/2ff68c23db3f1fb68d4c6f59d2bd90c9",
+      "publishedAt": "2023-08-21T03:59:00Z",
+      "content": "This one was special. \r\nNovak Djokovic needed five match points and nearly four hours to pull off an epic victory over Carlos Alcaraz and claim a third ATP Cincinnati Open title on Monday. \r\nA titani… [+4595 chars]"
+    }
+  ]
+}
